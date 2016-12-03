@@ -7,9 +7,9 @@
 #Screenshot
 [![ScreenShot](https://raw.githubusercontent.com/yucefsourani/arfedora-nvidiab-25/master/arfedora-screenshot.jpg)](http://www.arfedora.com)
 
-[![ScreenShot](https://raw.githubusercontent.com/yucefsourani/arfedora-nvidiab-25/master/arfedora-screenshot.jpg)](http://www.arfedora.com)
+[![ScreenShot](https://raw.githubusercontent.com/yucefsourani/arfedora-nvidiab-25/master/arfedora-screenshot2.jpg)](http://www.arfedora.com)
 
-[![ScreenShot](https://raw.githubusercontent.com/yucefsourani/arfedora-nvidiab-25/master/arfedora-screenshot.jpg)](http://www.arfedora.com)
+[![ScreenShot](https://github.com/yucefsourani/arfedora-nvidiab-25/blob/master/arfedora-screenshot3.jpg)](http://www.arfedora.com)
 
 * To Use
 
