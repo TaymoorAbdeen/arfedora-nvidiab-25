@@ -290,7 +290,7 @@ def main(ms=""):
 	while True:
 		welcome()
 		talwin("Do You Want Install Nvidia Closed Source Driver?\n","blue")
-		print("1-Install Nvidia Closed Source Driver.\t\t\t\t\t2-Level 1 Troubleshoot Nvidia Closed Source Driver\n\n\n3-Level 2 Troubleshoot Nvidia Closed Source Driver\t\t\t4-Undo Level 2 Troubleshoot Nvidia Closed Source Driver.\n\n\n5-Remove Nvidia CLosed Source Driver.\t\t\t\t\t6-Install Gnome Shell Extentios.")
+		print("1-Install Nvidia Closed Source Driver.\t\t\t\t\t2-Level 1 Troubleshoot Nvidia Closed Source Driver\n\n\n3-Level 2 Troubleshoot Nvidia Closed Source Driver\t\t\t4-Undo Level 2 Troubleshoot Nvidia Closed Source Driver.\n\n\n5-Remove Nvidia CLosed Source Driver.\t\t\t\t\t6-Install Gnome Shell Extentions.")
 		talwin("\n%s\n"%ms,"red")
 		talwin("Choice Number || q to Exit.\n-","blue",end="")
 		answer=input().strip()
