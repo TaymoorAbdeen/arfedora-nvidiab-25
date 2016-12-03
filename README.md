@@ -10,8 +10,8 @@
 
 * To Use
 
- * ``` cd && git clone https://github.com/yucefsourani/arfedora-nvidiab ```
+ * ``` cd && git clone https://github.com/yucefsourani/arfedora-nvidiab-25 ```
 
- * ``` sudo chmod 755 ~/arfedora-nvidiab/arfedora-nvidiab.py ```
+ * ``` sudo chmod 755 ~/arfedora-nvidiab-25/arfedora-nvidiab.py ```
 
- * ``` ~/arfedora-nvidiab/arfedora-nvidiab.py ```
+ * ``` ~/arfedora-nvidiab-25/arfedora-nvidiab.py ```
