@@ -1,6 +1,6 @@
 # arfedora-nvidiab-25
 * Script To Install Bumblebee + Nvidia Driver On Fedora 25 Only.
-* http://www.arfedora.com
+* http://www.arfedora.blogspot.com
 
 
 
